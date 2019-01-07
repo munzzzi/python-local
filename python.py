@@ -20,3 +20,4 @@ a=random.sample(numbers,6)
 #내림차순정렬 a.sort(reverse=True)
 a.sort(reverse=True)
 print(a)
+##
